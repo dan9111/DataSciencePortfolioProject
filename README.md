@@ -1,2 +1,2 @@
-# DataSciencePortfolioProject
-Personal projects for Data Science Portfolio
+# Data Science Portfolio Project
+A collection of my projects for Data Science Portfolio
